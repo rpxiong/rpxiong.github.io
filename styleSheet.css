@@ -1,0 +1,245 @@
+@font-face {
+	font-family: CaviarDreams;
+  	src: url(CaviarDreams.ttf) format("truetype");
+	}
+
+
+
+
+header{
+	font-family: downloadedFont;
+	position:fixed;
+	top: 0;
+	background-color: #F2EDD0;
+	width:100%;
+	}
+	
+body{
+	background-color:#F2EDD0;
+}
+
+#welcomeTitle{
+	text-align: left;
+	font-family: "Playfair Display", Georgia, sans-serif;
+	padding-left:230px;
+	
+}
+
+h2{
+	text-align: center;
+	font-family: "Playfair Display", Georgia, sans-serif;
+	font-size: 20px;
+	
+	
+	padding-top:30px;
+}
+
+
+.navbar {
+	position:fixed;
+	top:75px;
+	width: 100%;
+	background-color: #4E7FBF;
+}
+
+.navbar a {
+	float:right;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	letter-spacing: 4px;
+}
+
+.navbar a:hover{
+	background-color: white;
+	color: black;
+}
+
+#Banner{
+	padding-top:115px;
+	max-width:100%;
+	height:auto;
+}
+
+<!--
+#EditedWork{
+	padding-top:50px;
+	text-align: center;
+	font-family: "Playfair Display", Georgia, sans-serif;
+	font-size: 20px;
+	letter-spacing: 5px;
+}
+-->
+
+#welcome{
+	
+	padding-right:230px;
+	padding-bottom: 40px; 
+	padding-left: 230px;
+	text-align:left;
+	Font-size:18px;
+	letter-spacing:2px;
+}
+
+#videoPart{
+	padding-right:230px;
+	padding-left:100px;
+	padding-bottom: 40px; 
+	text-align: left;
+	Font-size:18px;
+	letter-spacing:2px;
+}
+
+#ShortStoryVideo{
+	padding-left:230px;
+	padding-right:100px;
+}
+
+#whoAmI{
+padding-top:100px;	
+	}
+
+#CA355{
+	padding-left:230px;
+	padding-right:100px;
+	padding-bottom:40px;
+	text-align: right;
+	Font-size: 18px;
+	letter-spacing:2px;
+}
+
+#CA355Video{
+	padding-right:230px;	
+	}
+
+
+#NSOM{
+	padding-right:230px;
+	padding-left:100px;
+	padding-bottom:40px;
+	text-align: left;
+	Font-size:18px;
+	letter-spacing:2px;
+}
+
+#NSOMvideo{
+	padding-left:230px;
+	padding-right:100px;
+}
+
+footer{
+	padding:75px 50px 75px;
+	text-align: center;
+	font-size: 14px;
+	letter-spacing:2px;
+}
+
+#Rosee{
+	width:300px;
+	height:425px;
+	padding-right:230px;
+}
+
+#AboutMe{
+	padding-right:100px;
+	padding-left:230px;
+	padding-bottom:40px;
+	text-align: left;
+	Font-size:18px;
+	letter-spacing:2px;
+}
+	
+#TBImage{
+	width:380px;
+	height:450px;
+	padding-left:230px;	
+	padding-right: 100px;
+}
+#TeachingBooks{
+	
+	padding-right:230px;
+	padding-bottom:40px;
+	text-align: left;
+	Font-size: 18px;
+	letter-spacing:2px;
+}
+
+#EMCClogo{
+	padding-left:100px;	
+	padding-right:230px;
+}
+#EMCCdescription{
+	padding-left:230px;
+	padding-right:100px;
+	padding-bottom:40px;
+	text-align: left;
+	Font-size: 18px;
+	letter-spacing:2px;
+}
+
+	
+#ResumeTitle{
+	padding-top:125px;
+	padding-left:230px;
+	padding-right:100px;
+}
+#ContactInfo{
+	padding-left:230px;
+	padding-right:100px;
+	padding-bottom:40px;
+	text-align: left;
+	Font-size: 18px;
+	letter-spacing:2px;
+}
+#PDF{
+	padding-right:230px;
+}
+
+
+
+#HobbyTitle{
+	padding-top:125px;
+	padding-left:230px;
+	padding-right:100px;
+}
+
+
+
+
+#BioTitle{
+	padding-top:125px;
+	padding-left:230px;
+	padding-right:100px;
+}
+
+
+
+
+#OlbrichIMG{
+	width:425px;
+	height:300px;
+	padding-right:230px;
+}
+#MHNimg{
+	width:300px;
+	height:425px;
+	padding-left:230px;
+}
+#ul{
+	text-align: left;
+	padding-left:100px;
+}
+#unlisted{
+	text-align: left;
+	padding-left:100px;
+}
+
+
+
+
+iframe{
+    border-width: 0px;
+}
